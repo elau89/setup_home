@@ -106,3 +106,5 @@ nnoremap ]c <Esc>:cnext<CR>
 nnoremap [c <Esc>:cprevious<CR>
 nnoremap ]t <Esc>:tagnext<CR>
 nnoremap [t <Esc>:tagprevious<CR>
+nnoremap ]w <Esc>:tabnext<CR>
+nnoremap [w <Esc>:tabprevious<CR>
